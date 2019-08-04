@@ -1,0 +1,25 @@
+@import "~/node_modules/bootstrap/dist/css/bootstrap-grid.css";
+
+
+
+
+#container {
+    width: 80%;
+    margin: 0px auto;
+    float: none;
+
+}
+table{
+    border-radius: 5px;
+    width: 10vh;
+    margin: 0px auto;
+    float: none;
+}
+h1{
+    text-align: center !important;
+
+}
+.cell-red-solde{
+    color: firebrick;
+    font-weight: bold;
+}
